@@ -25,7 +25,7 @@ A estrutura do banco de dados foi planejada para resolver a falta de centraliza�
 
 ## 📊 Modelagem Visual (DER)
 Você pode visualizar o Diagrama Entidade-Relacionamento através do link abaixo:
-🔗 [Link para o Diagrama no dbdiagram.io](COLE_AQUI_O_SEU_LINK_PUBLICO)
+🔗 [Link para o Diagrama no dbdiagram.io](https://dbdiagram.io/d/69c7d66ffb2db18e3b27179f)
 
 ## 📁 Estrutura de Arquivos
 - `script.sql`: Contém os comandos de criação de tabelas (DDL), inserção de dados (DML) e consultas de teste (DQL).
